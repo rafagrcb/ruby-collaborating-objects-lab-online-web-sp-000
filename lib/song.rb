@@ -19,7 +19,7 @@ class Song
   end
   
   def self.all
-    return @@all
+    return self.all
   end
   
  end
